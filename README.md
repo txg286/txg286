@@ -1,2 +1,2 @@
 -- Under Construction... --
-A amateur programmer
+HHU CPer
